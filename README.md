@@ -1,0 +1,1 @@
+Random examples of OpenDota API usage in Python.
